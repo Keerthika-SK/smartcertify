@@ -1,0 +1,12 @@
+pip
+setuptools
+wheel
+streamlit>=1.37.0
+azure-data-tables>=12.3.0
+azure-ai-formrecognizer>=3.2.0
+azure-identity>=1.8.0
+PyPDF2>=3.0.0
+reportlab>=3.6.12
+httpx>=0.23.3
+openai>=0.27.0
+typing_extensions>=4.7.0
